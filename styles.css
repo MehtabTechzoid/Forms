@@ -1,0 +1,56 @@
+h5{
+    font-size: 17px !important;
+    font-weight: 400;
+}
+h6{
+    font-size: 15px !important;
+    font-weight: 400;
+}
+.line__height{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 10px  !important;
+}
+p{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(132, 132, 132);
+}
+input:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+textarea:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+.input-border-bottom {
+    border: none !important;
+    border-bottom: 1px dashed black !important;
+    outline: none;
+  }
+
+  .input-border-bottom {
+    border-bottom: 1px dashed black;
+  }
+  .form-check-input:checked{
+    background-color: black !important;
+    border-color: #000000 !important;
+  }
+  span{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(132, 132, 132);
+  }
+  .november__head{
+    letter-spacing: 1.5px;
+    font-size: 18px;
+  }
+  .width{
+    width: 60%;
+  }
+  @media screen and (max-width: 767px) {
+    .width{
+      width: 100%;
+    }
+  }
